@@ -1,7 +1,7 @@
 
 ***
 
-# [Credit Risk Modelling Dataset](https://credit-risk-modelling-vat.streamlit.app/)
+# [Credit Risk Modelling](https://credit-risk-modelling-vat.streamlit.app/)
 
 This repository contains a synthetic dataset for **credit risk analysis** and machine learning modeling, suitable for research, education, and prototyping production-ready credit scoring solutions. 
 
